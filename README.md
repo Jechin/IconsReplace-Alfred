@@ -14,15 +14,11 @@
 
 This project can be used to simplify the process of custom replacement of application icons. It is convenient to replace again after the application is updated.
 
-This pThis project is based on Alfred and workflow. The workflow depends on a well developed Open Source Shell program [***fileicon***](https://github.com/mklement0/fileicon), and specail thank to mklement0](https://github.com/mklement0). 
+This pThis project is based on Alfred and workflow. The workflow depends on a well developed Open Source Shell program [***fileicon***](https://github.com/mklement0/fileicon), and specail thank to [mklement0](https://github.com/mklement0). 
 
 Users save the icon file (.icon or .png) needed for replacement in a separate folder, and the workflow will search for icons in the folder and find the corresponding app to replace it.
 
 # Table of contents
-
-After you have introduced your project, it is a good idea to add a **Table of contents** or **TOC** as **cool** people say it. This would make it easier for people to navigate through your README and find exactly what they are looking for.
-
-Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README.
 
 - [IconsReplace-Alfred](#IconsReplace-Alfred)
 - [Demo-Preview](#demo-preview)
