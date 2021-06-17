@@ -15,7 +15,7 @@ def create_item(title, arg, icon):
 	}
 	return item
 
-# icons_file = '/Users/Jechin/OneDrive/iconfile/'
+
 icons_file = os.getenv('icons_filepath')
 for dirpath, dirname, files in os.walk(icons_file):
 	break;
